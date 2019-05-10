@@ -65,7 +65,7 @@ npm install
 npm start
 ```
 
-### Oen the app in the browser
+### Open the app in the browser
 ```
 http://localhost:9000/login
-``
+```
